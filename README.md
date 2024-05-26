@@ -1,8 +1,7 @@
                                                                              RUBEL AHMED
                                                                     Australian Permanent Resident
                                                          
-An effective communicator and team player with extensive knowledge of Python (Advanced), Snowflake SQL (Advanced), 
-          Power BI, Tableau,Excel & Matlab
+An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,Excel.
 Highly motivated employee with desire to take on new challenges.
 Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
@@ -21,7 +20,7 @@ PROFESSIONAL EXPERIENCE
 
 Data Analyst, Harwood Acoustics, Australia 
 February 2023 - Present
-Collect data, identify data anomalies, and clean.
+• Collect data, identify data anomalies, and clean.
 •	Conduct investigations and provide in-depth data analysis.
 •	Collaborate with cross-functional teams to understand data requirements and develop solutions
 •	Develop and implement data quality assurance processes
@@ -30,7 +29,6 @@ Collect data, identify data anomalies, and clean.
 
 Project Engineer (Data Modeling), University of Wollongong, Australia
 June 2017- October 2022
-
 •	Develop research model in both numerically and analytically.
 •	Algorithm design and mathematical formulation with statistical methodology to generate data using MATLAB, SQL, Python, and R.
 •	Collect data, identify anomalies, and clean.
@@ -47,7 +45,6 @@ June 2017- October 2022
 •	Data analysis and reporting to identify areas of opportunity and assist executives in their decision making.
 
 CORE COMPETENCIES
-
 •	5 years of experience using data manipulation tools and languages such as SQL, Python, and R. 
 •	Bachelor's degree in Statistics & Mathematics
 •	Proven experience as a Data Analyst or in a similar role.
