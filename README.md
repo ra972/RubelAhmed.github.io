@@ -1,24 +1,24 @@
-##                                                                           RUBEL AHMED
-###                                                                    Australian Permanent Resident
-                                                         
+##                                                                                  RUBEL AHMED
+###                                                                     Australian Permanent Resident
+                                                             
 An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,Excel.
 Highly motivated employee with desire to take on new challenges.
 Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
-TECHNICAL SKILLS
+### TECHNICAL SKILLS
 •	Programming: R, Python, C++, Fortran, Matlab.
 •	Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
 
-EDUCATION & CERTIFICATIONS
+### EDUCATION & CERTIFICATIONS
 •	BSc & MSc in Mathematics, KU, 2016
 •	Postgraduation (Project Development & Computation), University of Wollongong, 2022
 •	Google Data Analytics Professional Certificate, Google, Present
 •	Microsoft Power BI Desktop for Business Intelligence, Present
 •	SQL for Data Analysis
 
-PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
-Data Analyst, Harwood Acoustics, Australia 
+#### Data Analyst, Harwood Acoustics, Australia 
 February 2023 - Present
 • Collect data, identify data anomalies, and clean.
 •	Conduct investigations and provide in-depth data analysis.
@@ -27,7 +27,7 @@ February 2023 - Present
 •	Create and maintain documentation related to data analysis processes and findings
 •	Communicate findings and recommendations to stakeholders in a clear and concise manner
 
-Project Engineer (Data Modeling), University of Wollongong, Australia
+#### Project Engineer (Data Modeling), University of Wollongong, Australia
 June 2017- October 2022
 •	Develop research model in both numerically and analytically.
 •	Algorithm design and mathematical formulation with statistical methodology to generate data using MATLAB, SQL, Python, and R.
@@ -44,7 +44,7 @@ June 2017- October 2022
 •	Assist in delivering reporting and benchmarking products.
 •	Data analysis and reporting to identify areas of opportunity and assist executives in their decision making.
 
-CORE COMPETENCIES
+### CORE COMPETENCIES
 •	5 years of experience using data manipulation tools and languages such as SQL, Python, and R. 
 •	Bachelor's degree in Statistics & Mathematics
 •	Proven experience as a Data Analyst or in a similar role.
