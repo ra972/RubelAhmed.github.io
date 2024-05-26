@@ -1,13 +1,14 @@
-                                                                 RUBEL AHMED
-                                                         Australian Permanent Resident
+                                                                             RUBEL AHMED
+                                                                    Australian Permanent Resident
                                                          
-        	An effective communicator and team player with extensive knowledge of Python (Advanced), Snowflake SQL (Advanced), Power BI, Tableau, Excel & MATLAB
-        	Highly motivated employee with desire to take on new challenges.
-        	Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
+An effective communicator and team player with extensive knowledge of Python (Advanced), Snowflake SQL (Advanced), 
+          Power BI, Tableau,Excel & Matlab
+Highly motivated employee with desire to take on new challenges.
+Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
 TECHNICAL SKILLS
-•	Programming: R, PYTHON, C++, FORTRAN, MATLAB.
-•	Application: SQL, Microsoft Word, EXCEL, Power Point, POWER BI, TECPLOT 
+•	Programming: R, Python, C++, Fortran, Matlab.
+•	Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
 
 EDUCATION & CERTIFICATIONS
 •	BSc & MSc in Mathematics, KU, 2016
@@ -20,8 +21,7 @@ PROFESSIONAL EXPERIENCE
 
 Data Analyst, Harwood Acoustics, Australia 
 February 2023 - Present
-
-•	Collect data, identify data anomalies, and clean.
+Collect data, identify data anomalies, and clean.
 •	Conduct investigations and provide in-depth data analysis.
 •	Collaborate with cross-functional teams to understand data requirements and develop solutions
 •	Develop and implement data quality assurance processes
@@ -47,6 +47,7 @@ June 2017- October 2022
 •	Data analysis and reporting to identify areas of opportunity and assist executives in their decision making.
 
 CORE COMPETENCIES
+
 •	5 years of experience using data manipulation tools and languages such as SQL, Python, and R. 
 •	Bachelor's degree in Statistics & Mathematics
 •	Proven experience as a Data Analyst or in a similar role.
