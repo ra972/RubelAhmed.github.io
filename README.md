@@ -1,5 +1,5 @@
-                                                                             ## RUBEL AHMED
-                                                                    # Australian Permanent Resident
+###                                                                            RUBEL AHMED
+#                                                                    Australian Permanent Resident
                                                          
 An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,Excel.
 Highly motivated employee with desire to take on new challenges.
