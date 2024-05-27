@@ -3,10 +3,12 @@
 An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,Excel.
 Highly motivated employee with desire to take on new challenges.
 Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
+![Dashboard] (bar plot.png)
 
 ### TECHNICAL SKILLS
 •	Programming: R, Python, C++, Fortran, Matlab.     
 •	Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
+
 
 ### EDUCATION & CERTIFICATIONS
 •	BSc & MSc in Mathematics, KU, 2016
