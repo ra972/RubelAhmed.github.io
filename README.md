@@ -4,7 +4,7 @@ An effective communicator and team player with extensive knowledge of Python, SQ
 Highly motivated employee with desire to take on new challenges.
 Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
-![Dashboard] (bar plot.png)
+![Dashboard] (bar plot.jpeg)
 
 ### TECHNICAL SKILLS
 •	Programming: R, Python, C++, Fortran, Matlab.     
