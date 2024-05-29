@@ -23,13 +23,9 @@
 ### PROFESSIONAL EXPERIENCE
 
 #### Data Analyst, Harwood Acoustics, Australia (February 2023 - Present)
-
 - Collect data, identify data anomalies, and clean.
-
 - Conduct investigations and provide in-depth data analysis using DAX.
-
 - Collaborate with cross-functional teams to understand data requirements and develop solutions.
-
 - Develop and implement data quality assurance processes.
 
 - Create and maintain documentation related to data analysis processes and findings.
