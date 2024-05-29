@@ -19,7 +19,6 @@
 - Ask Questions to Make Data-Driven Decisions ([Certificate](https://www.coursera.org/account/accomplishments/verify/JTK8U69ULLMY))
 - Prepare Data for Exploration ([Certificate](https://www.coursera.org/account/accomplishments/verify/ZYJ7N7MGBJDL))
 - Process Data from Dirty to Clean ([Certificate](https://www.coursera.org/account/accomplishments/verify/4LDQZXZZD5SR))
-
 ####	Microsoft Power BI Desktop for Business Intelligence, Present
 ####	SQL for Data Analysis
 
