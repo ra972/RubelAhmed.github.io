@@ -7,8 +7,8 @@ Strong work ethics, adaptability and exceptional interpersonal skills and quickl
 ![Dashboard] (bar plot.jpeg)
 
 ### TECHNICAL SKILLS
-•	Programming: R, Python, C++, Fortran, Matlab.     
-•	Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
+#### •	Programming: R, Python, C++, Fortran, Matlab.     
+#### •	Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
 
 
 ### EDUCATION & CERTIFICATIONS
