@@ -4,7 +4,6 @@
 - Highly motivated employee with desire to take on new challenges.
 - Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
-[RubelPicture](1710737035782.jpeg)
 
 ### TECHNICAL SKILLS
 #### Programming: R, Python, C++, Fortran, Matlab.     
@@ -15,7 +14,7 @@
 
 ####	BSc & MSc in Mathematics, KU, 2016
 ####	Postgraduation (Project Development & Computation), University of Wollongong, 2022
-####	Google Data Analytics Professional Certificate, Google, Present
+####	Google Data Analytics Professional Certificate, Google, Present ([Certificate](https://www.coursera.org/account/accomplishments/certificate/4LDQZXZZD5SR))
 ####	Microsoft Power BI Desktop for Business Intelligence, Present
 ####	SQL for Data Analysis
 
