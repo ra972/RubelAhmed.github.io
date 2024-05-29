@@ -1,4 +1,4 @@
-#                                                                                  RUBEL AHMED
+#                                                                                  RUBEL AHMED, Data Analyst
                                                              
 - An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,and Excel.
 - Highly motivated employee with desire to take on new challenges.
