@@ -4,6 +4,8 @@
 - Highly motivated employee with desire to take on new challenges.
 - Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
+[RubelPicture](1710737035782.jpeg)
+
 ### TECHNICAL SKILLS
 #### Programming: R, Python, C++, Fortran, Matlab.     
 #### Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
