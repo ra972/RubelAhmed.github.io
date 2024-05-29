@@ -1,4 +1,4 @@
-#                                                                                  RUBEL AHMED, Data Analyst
+#                                                                                  RUBEL AHMED, Data Analyst ([Linkedin](https://www.linkedin.com/in/rubel-ahmed-931040149/))
 - An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,and Excel.
 - Highly motivated employee with desire to take on new challenges.
 - Strong work ethics, adaptability and exceptional interpersonal skills, and quickly mastering new skills.
