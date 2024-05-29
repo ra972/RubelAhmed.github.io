@@ -4,30 +4,29 @@ An effective communicator and team player with extensive knowledge of Python, SQ
 Highly motivated employee with desire to take on new challenges.
 Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
 
-![Dashboard] (bar plot.jpeg)
-
 ### TECHNICAL SKILLS
-#### •	Programming: R, Python, C++, Fortran, Matlab.     
-#### •	Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
+#### Programming: R, Python, C++, Fortran, Matlab.     
+#### Application: SQL, Microsoft Word, Excel, Power Point, Power BI, Techplot
 
 
 ### EDUCATION & CERTIFICATIONS
-•	BSc & MSc in Mathematics, KU, 2016
-•	Postgraduation (Project Development & Computation), University of Wollongong, 2022
-•	Google Data Analytics Professional Certificate, Google, Present
-•	Microsoft Power BI Desktop for Business Intelligence, Present
-•	SQL for Data Analysis
+
+####	BSc & MSc in Mathematics, KU, 2016
+####	Postgraduation (Project Development & Computation), University of Wollongong, 2022
+####	Google Data Analytics Professional Certificate, Google, Present
+####	Microsoft Power BI Desktop for Business Intelligence, Present
+####	SQL for Data Analysis
 
 ### PROFESSIONAL EXPERIENCE
 
 #### Data Analyst, Harwood Acoustics, Australia 
 February 2023 - Present
-• Collect data, identify data anomalies, and clean.
-•	Conduct investigations and provide in-depth data analysis.
-•	Collaborate with cross-functional teams to understand data requirements and develop solutions
-•	Develop and implement data quality assurance processes
-•	Create and maintain documentation related to data analysis processes and findings
-•	Communicate findings and recommendations to stakeholders in a clear and concise manner
+Collect data, identify data anomalies, and clean.
+Conduct investigations and provide in-depth data analysis.
+Collaborate with cross-functional teams to understand data requirements and develop solutions
+Develop and implement data quality assurance processes
+Create and maintain documentation related to data analysis processes and findings
+Communicate findings and recommendations to stakeholders in a clear and concise manner
 
 #### Project Engineer (Data Modeling), University of Wollongong, Australia
 June 2017- October 2022
