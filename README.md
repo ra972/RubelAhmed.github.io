@@ -1,8 +1,8 @@
 #                                                                                  RUBEL AHMED
                                                              
-- An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,Excel.
+- An effective communicator and team player with extensive knowledge of Python, SQL,Power BI, Tableau,and Excel.
 - Highly motivated employee with desire to take on new challenges.
-- Strong work ethics, adaptability and exceptional interpersonal skills and quickly mastering new skills.
+- Strong work ethics, adaptability and exceptional interpersonal skills, and quickly mastering new skills.
 
 
 ### TECHNICAL SKILLS
@@ -41,9 +41,9 @@
 
 #### Project Engineer (Data Modeling), University of Wollongong, Australia (June 2017- October 2022)
 
--Develop research model in both numerically and analytically.
+- Develop research model in both numerically and analytically.
 
--Algorithm design and mathematical formulation with statistical methodology to generate data using MATLAB, SQL, Python, and R.
+- Algorithm design and mathematical formulation with statistical methodology to generate data using MATLAB, SQL, Python, and R.
 
 - Collect data, identify anomalies, and clean.
 
@@ -71,7 +71,7 @@
 
 ### CORE COMPETENCIES
 
-BSC & MSC degree in Mathematics and Statistics.
+- BSC & MSC degree in Mathematics and Statistics.
 
 - 5 years of experience using data manipulation tools and languages such as SQL, Python, and R. 
 
