@@ -47,7 +47,7 @@
 - BSC & MSC degree in Mathematics and Statistics.
 - 5 years of experience using data manipulation tools and languages such as SQL, Python, and R. 
 - Proven experience as a Data Analyst or in a similar role.
-- Data visualization skills using programming (e.g. Python and Power BI).
+- Data visualization skills using programming (e.g. Python and Power BI, see [Ahmed-Data-Analyst-Portfolio](https://ra972.github.io/Ahmed-Data-Analyst-Portfolio/ )).
 - Demonstrated storytelling skills in business contexts.
 - Conformable with database query languages such as SQL.
 - Experience with BigQuery.
